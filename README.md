@@ -1,5 +1,10 @@
 # Preflight Kit — product CSV preflight validator for Shopify
 
+> **⛔ Discontinued (2026-07-26).** This project has been stopped following a NO-GO / theme-stop
+> decision — validated paid demand and reachable customers were not established within the
+> validation window. No new offering is provided and no further releases or support are planned.
+> The source remains available for reference. The hosted site and paid checkout may be taken down.
+
 [![PyPI version](https://img.shields.io/pypi/v/preflight-kit.svg)](https://pypi.org/project/preflight-kit/)
 [![Source-available license](https://img.shields.io/badge/license-source--available-blue.svg)](LICENSE)
 [![CI](https://github.com/q00tar00/preflight-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/q00tar00/preflight-kit/actions/workflows/ci.yml)
